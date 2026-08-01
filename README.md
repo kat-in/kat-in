@@ -11,6 +11,17 @@
 ## Tech stack: 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,html,css,figma,ps,git,bash,jest,vite&perline=6)](https://skillicons.dev) 
 
+## 🚀 Selected Projects
+
+| Project | Stack | Links |
+|---|---|---|
+| **Runit** — online code editor, open-source (Hexlet) · active contributor | TypeScript · React 18 · Mantine · TanStack Query · tRPC · Monaco Editor · Vite | [Repo](https://github.com/hexlet-volunteers/runit) · [Live](https://runit.hexlet.ru) |
+| **Chat** — Slack-like messenger | React · Redux Toolkit · Socket.IO · Formik · Yup · i18next | [Repo](https://github.com/kat-in/frontend-project-12) · [Live](https://chat-rfzu.onrender.com) |
+| **taekwondo-kuban** — site redesign for taekwondo association (pet project) | React · React Router · SCSS (BEM) · Express · JWT | [Repo](https://github.com/kat-in/taekwondo-kuban) |
+| **RSS Reader** | JavaScript · Vite · axios · Bootstrap · i18next · yup | [Repo](https://github.com/kat-in/frontend-project-11) · [Live](https://rss-brown-tau.vercel.app) |
+| **Portfolio** — photographer landing | Vanilla JS · Vite · Sass · HTML5 | [Repo](https://github.com/kat-in/apprs) · [Live](https://kat-in.github.io/apprs/Portfolio/) |
+| **gendiff** — JSON/YAML diff CLI | Node.js · commander · Jest | [Repo](https://github.com/kat-in/frontend-project-46) |
+
 ## 🤝 Let's Connect!
 
 Location: Russia, Krasnodar
