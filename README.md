@@ -11,7 +11,7 @@
 ## Tech stack: 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,html,css,figma,ps,git,bash,jest,vite&perline=6)](https://skillicons.dev) 
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 | Project | Stack | Links |
 |---|---|---|
