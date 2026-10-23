@@ -15,6 +15,7 @@
 
 | Project | Stack | Links |
 |---|---|---|
+| **Repo Health Score** — repo health analytics: 0–100 score across 6 categories (hackathon project) | Java 21 · Spring Boot · React · TypeScript · Mantine · PostgreSQL | [Repo](https://github.com/kat-in/repo-health-score) · [Live](https://repohealthscore.su/) |
 | **Runit** — online code editor, open-source (Hexlet) · active contributor | TypeScript · React 18 · Mantine · TanStack Query · tRPC · Monaco Editor · Vite | [Repo](https://github.com/hexlet-volunteers/runit) · [Live](https://runit.hexlet.ru) |
 | **Chat** — Slack-like messenger | React · Redux Toolkit · Socket.IO · Formik · Yup · i18next | [Repo](https://github.com/kat-in/frontend-project-12) · [Live](https://chat-rfzu.onrender.com) |
 | **taekwondo-kuban** — site redesign for taekwondo association (pet project) | React · React Router · SCSS (BEM) · Express · JWT | [Repo](https://github.com/kat-in/taekwondo-kuban) |
